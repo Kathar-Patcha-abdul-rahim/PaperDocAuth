@@ -61,7 +61,7 @@ This project was developed as part of the **COMP-8157 (Advanced Database Topics)
 
 ```bash
 
-git clone https://github.com/iftymahmud/PapDocAuth.git
+git clone https://github.com/Kathar-Patcha-abdul-rahim/PaperDocAuth.git
 
 cd PapDocAuth
 
